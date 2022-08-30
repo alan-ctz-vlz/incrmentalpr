@@ -1,1 +1,2 @@
-un extra que sera usado en la siguiente parte
+un extra que sera usado en la siguiente parteç
+se agrego una vista
