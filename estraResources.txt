@@ -1,0 +1,2 @@
+un extra que sera usado en la siguiente parte
+se agregaron enum y clases
