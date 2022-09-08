@@ -1,3 +1,2 @@
 file parte 1
-una lines para parte 1
-una line mas part 1 1
+una linea parte 2
